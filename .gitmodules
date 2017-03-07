@@ -1,0 +1,3 @@
+[submodule "git-learning-box_sub-mod"]
+	path = git-learning-box_sub-mod
+	url = https://github.com/mercantilism/git-learning-box_sub-mod.git
